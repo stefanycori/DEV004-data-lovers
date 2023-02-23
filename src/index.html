@@ -1,12 +1,89 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Data Lovers</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div id="root"></div>
-    <script src="main.js" type="module"></script>
-  </body>
+
+<head>
+  <meta charset="utf-8">
+  <title>Data Lovers</title>
+  <link rel="stylesheet" href="style.css" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital@1&display=swap" rel="stylesheet">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Syloti+Nagri&family=Noto+Serif+Ahom&display=swap"
+    rel="stylesheet">
+
+</head>
+
+<body>
+
+  <div class="photo">
+    <img id="fondo" src="img/picaachu-removebg-preview.png">
+  </div>
+
+
+
+  <div class="contenedor">
+
+
+    <div>
+      <input id="caja-texto" placeholder="Busca tu pokémon" />
+    </div>
+    <div>
+      <button id="btn-validar">Buscar</button>
+    </div>
+
+    <div>
+      <select name="selectSort" id="selectSort" >
+        <option value="">Ordenar:</option>
+        <option value="1"> A - Z </option>
+        <option value="2"> Z - A </option>
+        <option value="3">Por tipo</option>
+      </select>
+    </div>
+
+    <!--<div id="comparador">
+  <div class="elemento-comparable">
+    <img src="img/picachu.jpg">
+        <div class="contenido">
+          <h3>Pikachu</h3>
+          <p>Generacion: num
+            <p>Tamaño: 0.71 m.</p>
+           <p>Peso: 6.9 kg</p>
+            <p>Tipo</p>
+          </p>
+        </div>
+    </div>
+    <div class="elemento-comparable">
+      <img src="img/picachu.jpg">
+        <div class="contenido">
+          <h3>Pikachu</h3>
+          <p>Generacion: num
+            <p>Tamaño: 0.71 m.</p>
+           <p>Peso: 6.9 kg</p>
+            <p>Tipo</p>
+          </p>
+        </div>
+    </div>
+</div>-->
+
+  </div>
+
+
+  <div class="contenedor-central" id="container">
+    
+    </div>
+
+  </div>
+
+
+
+
+
+  <div id="root"></div>
+  <script src="main.js" type="module"></script>
+</body>
+
 </html>
