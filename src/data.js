@@ -45,26 +45,15 @@ export const templateCard = (data) => { //exporta la funcion en una constante
 export const searchPokemon=(data)=>{
   let input =document.getElementById('caja-texto');
   let htmlCode= '';
-
+  let newdata=[];   //areglo vacio
   data.forEach(poke=>{
     if (poke.name===input.value){
-  htmlCode=
-  `   
-            <div class="card">
-            <img src="${poke.img}"> 
-            <div class="contenido">
-              <h3>${poke.name}</h3>
-              <p>Número: ${poke.num} </p>
-                <p>Tipo: ${poke.type}</p>
-              <p>Resistencia: ${poke.resistant}</p>
-                <p>Debilidades: ${poke.weaknesses}</p>
-              </p>
-            </div>
-          </div>`;
-     contenedor.innerHTML=htmlCode;
+ newdata.push(poke)
     }
 
   })
+templateCard(newdata)//llamar a ala funcion
+
 
 }
 
