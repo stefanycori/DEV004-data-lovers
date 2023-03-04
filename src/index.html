@@ -27,6 +27,7 @@
 
   <div class="contenedor">
 
+   
 
     <div>
       <input id="caja-texto" placeholder="Busca tu pokémon" />
@@ -35,14 +36,57 @@
       <button id="btn-validar">Buscar</button>
     </div>
 
+    <button id="btn-abrir-modal">abrir modal</button>
+    <dialog id="modal">
+
+      
+        <img src="${poke.img}"> 
+        
+          
+          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo, odit. At hic perferendis saepe. Ipsam nostrum iusto cupiditate quae odit aut sint illo aliquam repellendus ratione sequi, temporibus molestias laboriosam?</p>
+          <button id="btn-cerrar-modal">cerrarmodal</button>
+        </div>
+      </div>`
+    </dialog>
+    
+
+
+
+
+   
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
     <div>
       <select name="selectSort" id="selectSort" >
-        <option value="">Ordenar:</option>
+        <option value="">Ordenar :</option>
         <option value="1"> A - Z </option>
         <option value="2"> Z - A </option>
-        <option value="3">Por tipo</option>
+        
       </select>
-    </div>
+     </div>
+
+     <div>
+      <select name="filter" id="filter" >
+        <option value="">Por Tipo :</option>
+        <option value="1"> Agua </option>
+        <option value="2"> Aire </option>
+        <option value="3"> Fuego </option>
+        <option value="4"> Electrico </option>
+        <option value="5"> Tierra </option>
+        <option value="6"> Psíquico </option>
+        <option value="7"> Planta </option>
+        <option value="8"> Bicho </option>
+      </select>
+     </div>
 
     <!--<div id="comparador">
   <div class="elemento-comparable">
@@ -74,6 +118,7 @@
 
   <div class="contenedor-central" id="container">
     
+     
     </div>
 
   </div>

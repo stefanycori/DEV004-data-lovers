@@ -16,7 +16,7 @@ let contenedor = document.getElementById('container');
 
 //recibe como parametro arreglo de pokemones
 export const templateCard = (data) => { //exporta la funcion en una constante
-  console.log(data)
+  
 
   let htmlCode = '';    //variable para almacenar codigo html
 
@@ -47,7 +47,7 @@ export const searchPokemon=(data)=>{
   let htmlCode= '';
   let newdata=[];   //areglo vacio
   data.forEach(poke=>{
-    if (poke.name===input.value){
+    if (poke.name.includes(input.value)){
  newdata.push(poke)
     }
 
@@ -57,3 +57,40 @@ templateCard(newdata)//llamar a ala funcion
 
 }
 
+export const sortPokemon = (data) =>{
+  const sortdZA = data.sort (function(a,b){
+    if(a.name < b.name){
+      return -1;
+    }
+    if(a.name > b.name){
+      return 1;
+    }
+    return 0;
+  } );
+  return sortdZA;
+
+  }
+   
+  export const sortReverse = (data) =>{
+  const sortdZA = data.sort (function (a,b){
+    if(a.name > b.name){
+      return -1;
+   }
+    if (a.name < b.name){
+      return 1;
+    }
+    return 0;
+  });
+  return sortdZA;
+}
+
+export const typePokemon =(data,type) =>{
+  const filterPokemon = data.filter(p =>p.type.includes(type))
+
+  return filterPokemon;
+}
+ 
+
+
+
+  
