@@ -27,7 +27,7 @@
 
   <div class="contenedor">
 
-   
+
 
     <div>
       <input id="caja-texto" placeholder="Busca tu pokémon" />
@@ -37,58 +37,123 @@
     </div>
 
     <button id="btn-abrir-modal">abrir modal</button>
+
     <dialog id="modal">
+      <div id="principal">
 
-      
-        <img src="${poke.img}"> 
-        
+        <div class="box-info">
+
+         
+            
+            <img src="img/pepe.png">
           
-          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo, odit. At hic perferendis saepe. Ipsam nostrum iusto cupiditate quae odit aut sint illo aliquam repellendus ratione sequi, temporibus molestias laboriosam?</p>
-          <button id="btn-cerrar-modal">cerrarmodal</button>
+
+          <div class="columns margin">
+            <h3>Pikachu</h3>
+            <div class="verde">
+              <p>Número: 001 </p>
+            </div>
+            <div class="azul">
+              <p>Tipo: Electrico</p>
+            </div>
+            <div class="naranja">  
+            <p>Resistencia: Eléctrico</p>
+            </div>
+
+          </div>
+
         </div>
-      </div>`
+
+        <div class="box-info">
+
+          <div class="columns margin">
+            <div class="verde">
+              <p>Generacion : 1 </p>
+            </div>
+            <div class="azul">
+              <p>Peso : 500kg</p>
+            </div>
+            <div class="naranja">
+              <p>Altura :30cm.</p>
+            </div>
+          </div>
+
+
+          <div class="columns margin">
+            <div class="verde">
+              <p>Ataque especial : Electricidad</p>
+            </div>
+
+            <div class="azul">
+              <p>Evolucion : Raichu</p>
+            </div>
+            <div class="naranja">
+              <p>Debilidades: suelo</p>
+            </div>
+
+          </div>
+
+        </div>
+ <div class="btn-close">
+  <button id="btn-cerrar-modal">Cerrar</button>
+ </div>
+       
+      </div>
+
+
     </dialog>
-    
+
+  </div>
 
 
 
 
-   
 
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-    <div>
-      <select name="selectSort" id="selectSort" >
-        <option value="">Ordenar :</option>
-        <option value="1"> A - Z </option>
-        <option value="2"> Z - A </option>
-        
-      </select>
-     </div>
 
-     <div>
-      <select name="filter" id="filter" >
-        <option value="">Por Tipo :</option>
-        <option value="1"> Agua </option>
-        <option value="2"> Aire </option>
-        <option value="3"> Fuego </option>
-        <option value="4"> Electrico </option>
-        <option value="5"> Tierra </option>
-        <option value="6"> Psíquico </option>
-        <option value="7"> Planta </option>
-        <option value="8"> Bicho </option>
-      </select>
-     </div>
 
-    <!--<div id="comparador">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div>
+    <select name="selectSort" id="selectSort">
+      <option value="">Ordenar :</option>
+      <option value="1"> A - Z </option>
+      <option value="2"> Z - A </option>
+
+    </select>
+  </div>
+
+  <div>
+    <select name="filter" id="filter">
+      <option value="">Por Tipo :</option>
+      <option value="1"> Agua </option>
+      <option value="2"> Aire </option>
+      <option value="3"> Fuego </option>
+      <option value="4"> Electrico </option>
+      <option value="5"> Tierra </option>
+      <option value="6"> Psíquico </option>
+      <option value="7"> Planta </option>
+      <option value="8"> Bicho </option>
+    </select>
+  </div>
+
+  <button id="1" class="btn-poke">prueba</button>
+  <button id="2" class="btn-poke">prueba2</button>
+
+
+  <!--<div id="comparador">
   <div class="elemento-comparable">
     <img src="img/picachu.jpg">
         <div class="contenido">
@@ -117,9 +182,9 @@
 
 
   <div class="contenedor-central" id="container">
-    
-     
-    </div>
+
+
+  </div>
 
   </div>
 
@@ -128,6 +193,7 @@
 
 
   <div id="root"></div>
+  
   <script src="main.js" type="module"></script>
 </body>
 

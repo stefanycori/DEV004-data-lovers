@@ -23,7 +23,7 @@ export const templateCard = (data) => { //exporta la funcion en una constante
   data.forEach(poke => {
     //genera un div poor cada pokemon
     htmlCode = htmlCode + `   
-            <div class="card">
+            <div  class="card">
             <img src="${poke.img}"> 
             <div class="contenido">
               <h3>${poke.name}</h3>
@@ -33,12 +33,18 @@ export const templateCard = (data) => { //exporta la funcion en una constante
                 <p>Debilidades: ${poke.weaknesses}</p>
               </p>
             </div>
-          </div>`
+          </div>
+        `
   })
 
 
 
   contenedor.innerHTML = htmlCode;  //insertar codigo html 
+}
+
+
+function showDetail(id){
+  console.log(id);
 }
 
 
