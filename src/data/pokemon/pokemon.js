@@ -58,7 +58,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "sludge bomb",
         "type": "poison",
@@ -85,11 +85,11 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "bulbasaur candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "002",
         "name": "ivysaur",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "003",
           "name": "venusaur",
           "candy-cost": "100"
@@ -156,7 +156,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "sludge bomb",
         "type": "poison",
@@ -183,7 +183,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "bulbasaur candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "003",
         "name": "venusaur",
         "candy-cost": "100"
@@ -254,7 +254,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "sludge bomb",
         "type": "poison",
@@ -350,7 +350,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "flame charge",
         "type": "fire",
@@ -377,11 +377,11 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "charmander candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "005",
         "name": "charmeleon",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "006",
           "name": "charizard",
           "candy-cost": "100"
@@ -453,7 +453,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "fire punch",
         "type": "fire",
@@ -480,7 +480,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "charmander candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "006",
         "name": "charizard",
         "candy-cost": "100"
@@ -564,7 +564,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "fire blast",
         "type": "fire",
@@ -665,7 +665,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "aqua jet",
         "type": "water",
@@ -692,11 +692,11 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "squirtle candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "008",
         "name": "wartortle",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "009",
           "name": "blastoise",
           "candy-cost": "100"
@@ -759,7 +759,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "aqua jet",
         "type": "water",
@@ -786,7 +786,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "squirtle candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "009",
         "name": "blastoise",
         "candy-cost": "100"
@@ -853,7 +853,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "flash cannon",
         "type": "steel",
@@ -947,7 +947,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
       "name": "struggle",
       "type": "normal",
@@ -959,11 +959,11 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "caterpie candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "011",
         "name": "metapod",
         "candy-cost": "12",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "012",
           "name": "butterfree",
           "candy-cost": "50"
@@ -1026,7 +1026,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
       "name": "struggle",
       "type": "normal",
@@ -1038,7 +1038,7 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "caterpie candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "012",
         "name": "butterfree",
         "candy-cost": "50"
@@ -1116,7 +1116,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "bug buzz",
         "type": "bug",
@@ -1214,7 +1214,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
       "name": "struggle",
       "type": "normal",
@@ -1226,11 +1226,11 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "weedle candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "014",
         "name": "kakuna",
         "candy-cost": "12",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "015",
           "name": "beedrill",
           "candy-cost": "50"
@@ -1297,7 +1297,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
       "name": "struggle",
       "type": "normal",
@@ -1309,7 +1309,7 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "weedle candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "015",
         "name": "beedrill",
         "candy-cost": "50"
@@ -1387,7 +1387,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "sludge bomb",
         "type": "poison",
@@ -1482,7 +1482,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "twister",
         "type": "dragon",
@@ -1509,11 +1509,11 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "pidgey candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "017",
         "name": "pidgeotto",
         "candy-cost": "12",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "018",
           "name": "pidgeot",
           "candy-cost": "50"
@@ -1577,7 +1577,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "twister",
         "type": "dragon",
@@ -1604,7 +1604,7 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "pidgey candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "018",
         "name": "pidgeot",
         "candy-cost": "50"
@@ -1679,7 +1679,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "hurricane",
         "type": "flying",
@@ -1776,7 +1776,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "dig",
         "type": "ground",
@@ -1803,7 +1803,7 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "rattata candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "020",
         "name": "raticate",
         "candy-cost": "25"
@@ -1861,7 +1861,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "dig",
         "type": "ground",
@@ -1951,7 +1951,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "aerial ace",
         "type": "flying",
@@ -1985,7 +1985,7 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "spearow candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "022",
         "name": "fearow",
         "candy-cost": "50"
@@ -2048,7 +2048,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "aerial ace",
         "type": "flying",
@@ -2145,7 +2145,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "wrap",
         "type": "normal",
@@ -2179,7 +2179,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "ekans candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "024",
         "name": "arbok",
         "candy-cost": "50"
@@ -2242,7 +2242,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "dark pulse",
         "type": "dark",
@@ -2329,7 +2329,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "discharge",
         "type": "electric",
@@ -2363,7 +2363,7 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "pikachu candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "026",
         "name": "raichu",
         "candy-cost": "50"
@@ -2435,7 +2435,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "brick break",
         "type": "fight",
@@ -2536,7 +2536,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "dig",
         "type": "ground",
@@ -2570,7 +2570,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "sandshrew candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "028",
         "name": "sandslash",
         "candy-cost": "50"
@@ -2632,7 +2632,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "earthquake",
         "type": "ground",
@@ -2722,7 +2722,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "poison fang",
         "type": "poison",
@@ -2749,11 +2749,11 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "nidoran ♀ (female) candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "030",
         "name": "nidorina",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "031",
           "name": "nidoqueen",
           "candy-cost": "100"
@@ -2817,7 +2817,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "poison fang",
         "type": "poison",
@@ -2844,7 +2844,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "nidoran ♀ (female) candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "031",
         "name": "nidoqueen",
         "candy-cost": "100"
@@ -2915,7 +2915,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "earthquake",
         "type": "ground",
@@ -3010,7 +3010,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "horn attack",
         "type": "normal",
@@ -3037,11 +3037,11 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "nidoran ♂ (male) candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "033",
         "name": "nidorino",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "034",
           "name": "nidoking",
           "candy-cost": "100"
@@ -3105,7 +3105,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "horn attack",
         "type": "normal",
@@ -3132,7 +3132,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "nidoran ♂ (male) candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "034",
         "name": "nidoking",
         "candy-cost": "100"
@@ -3210,7 +3210,7 @@ export default {
         "move-duration-seg": "0.4"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "earthquake",
         "type": "ground",
@@ -3303,7 +3303,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "disarming voice",
         "type": "fairy",
@@ -3330,7 +3330,7 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "clefairy candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "036",
         "name": "clefable",
         "candy-cost": "50"
@@ -3403,7 +3403,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "dazzling gleam",
         "type": "fairy",
@@ -3499,7 +3499,7 @@ export default {
         "move-duration-seg": "1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "body slam",
         "type": "normal",
@@ -3526,7 +3526,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "vulpix candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "038",
         "name": "ninetales",
         "candy-cost": "50"
@@ -3597,7 +3597,7 @@ export default {
         "move-duration-seg": "1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "heat wave",
         "type": "fire",
@@ -3699,7 +3699,7 @@ export default {
         "move-duration-seg": "0.9"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "disarming voice",
         "type": "fairy",
@@ -3740,7 +3740,7 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "jigglypuff candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "040",
         "name": "wigglytuff",
         "candy-cost": "50"
@@ -3806,7 +3806,7 @@ export default {
         "move-duration-seg": "0.9"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "dazzling gleam",
         "type": "fairy",
@@ -3904,7 +3904,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "poison fang",
         "type": "poison",
@@ -3938,11 +3938,11 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "zubat candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "042",
         "name": "golbat",
         "candy-cost": "50",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "169",
           "name": "crobat",
           "candy-cost": "100"
@@ -4009,7 +4009,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "poison fang",
         "type": "poison",
@@ -4043,7 +4043,7 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "zubat candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "169",
         "name": "crobat"
       }],
@@ -4113,7 +4113,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "seed bomb",
         "type": "grass",
@@ -4140,11 +4140,11 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "oddish candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "044",
         "name": "gloom",
         "candy-cost": "25",
-        "next-evolution": [
+        "nextevolution": [
           {
             "num": "045",
             "name": "vileplume",
@@ -4222,7 +4222,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "petal blizzard",
         "type": "grass",
@@ -4249,7 +4249,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "oddish candy",
-      "next-evolution": [
+      "nextevolution": [
         {
           "num": "045",
           "name": "vileplume",
@@ -4331,7 +4331,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "petal blizzard",
         "type": "grass",
@@ -4431,7 +4431,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "cross poison",
         "type": "poison",
@@ -4458,7 +4458,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "paras candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "047",
         "name": "parasect",
         "candy-cost": "50"
@@ -4533,7 +4533,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "cross poison",
         "type": "poison",
@@ -4626,7 +4626,7 @@ export default {
         "move-duration-seg": "1.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "psybeam",
         "type": "psychic",
@@ -4653,7 +4653,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "venonat candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "049",
         "name": "venomoth",
         "candy-cost": "50"
@@ -4726,7 +4726,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "psychic",
         "type": "psychic",
@@ -4829,7 +4829,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "dig",
         "type": "ground",
@@ -4856,7 +4856,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "diglett candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "051",
         "name": "dugtrio",
         "candy-cost": "50"
@@ -4925,7 +4925,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "earthquake",
         "type": "ground",
@@ -5010,7 +5010,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "night slash",
         "type": "dark",
@@ -5044,7 +5044,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "meowth candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "053",
         "name": "persian",
         "candy-cost": "50"
@@ -5102,7 +5102,7 @@ export default {
         "move-duration-seg": "0.9"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "power gem",
         "type": "rock",
@@ -5198,7 +5198,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "psybeam",
         "type": "psychic",
@@ -5225,7 +5225,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "psyduck candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "055",
         "name": "golduck",
         "candy-cost": "50"
@@ -5287,7 +5287,7 @@ export default {
         "move-duration-seg": "1.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "psychic",
         "type": "psychic",
@@ -5376,7 +5376,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "cross chop",
         "type": "fight",
@@ -5403,7 +5403,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "mankey candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "057",
         "name": "primeape",
         "candy-cost": "50"
@@ -5472,7 +5472,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "low sweep",
         "type": "fight",
@@ -5570,7 +5570,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "flame wheel",
         "type": "fire",
@@ -5597,7 +5597,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "growlithe candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "059",
         "name": "arcanine",
         "candy-cost": "50"
@@ -5668,7 +5668,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "fire blast",
         "type": "fire",
@@ -5771,7 +5771,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "bubble beam",
         "type": "water",
@@ -5798,11 +5798,11 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "poliwag candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "061",
         "name": "poliwhirl",
         "candy-cost": "25",
-        "next-evolution": [
+        "nextevolution": [
           {
             "num": "062",
             "name": "poliwrath",
@@ -5876,7 +5876,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "mud bomb",
         "type": "ground",
@@ -5910,7 +5910,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "poliwag candy",
-      "next-evolution": [
+      "nextevolution": [
         {
           "num": "062",
           "name": "poliwrath",
@@ -6000,7 +6000,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "hydro pump",
         "type": "water",
@@ -6100,7 +6100,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "psyshock",
         "type": "psychic",
@@ -6127,11 +6127,11 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "abra candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "064",
         "name": "kadabra",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "065",
           "name": "alakazam",
           "candy-cost": "100"
@@ -6193,7 +6193,7 @@ export default {
         "move-duration-seg": "1.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "psybeam",
         "type": "psychic",
@@ -6220,7 +6220,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "abra candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "065",
         "name": "alakazam",
         "candy-cost": "100"
@@ -6286,7 +6286,7 @@ export default {
         "move-duration-seg": "1.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "shadow ball",
         "type": "ghost",
@@ -6401,7 +6401,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "low sweep",
         "type": "fight",
@@ -6428,11 +6428,11 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "machop candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "067",
         "name": "machoke",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "068",
           "name": "machamp",
           "candy-cost": "100"
@@ -6495,7 +6495,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "submission",
         "type": "fight",
@@ -6529,7 +6529,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "machop candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "068",
         "name": "machamp",
         "candy-cost": "100"
@@ -6603,7 +6603,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "heavy slam",
         "type": "steel",
@@ -6722,7 +6722,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "power whip",
         "type": "grass",
@@ -6749,11 +6749,11 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "bellsprout candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "070",
         "name": "weepinbell",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "071",
           "name": "victreebel",
           "candy-cost": "100"
@@ -6827,7 +6827,7 @@ export default {
         "move-duration-seg": "1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "power whip",
         "type": "grass",
@@ -6854,7 +6854,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "bellsprout candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "071",
         "name": "victreebel",
         "candy-cost": "100"
@@ -6925,7 +6925,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "leaf blade",
         "type": "grass",
@@ -7022,7 +7022,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "bubble beam",
         "type": "water",
@@ -7049,7 +7049,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "tentacool candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "073",
         "name": "tentacruel",
         "candy-cost": "50"
@@ -7114,7 +7114,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "hydro pump",
         "type": "water",
@@ -7209,7 +7209,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "rock slide",
         "type": "rock",
@@ -7236,11 +7236,11 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "geodude candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "075",
         "name": "graveler",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "076",
           "name": "golem",
           "candy-cost": "100"
@@ -7316,7 +7316,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "dig",
         "type": "ground",
@@ -7350,7 +7350,7 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "geodude candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "076",
         "name": "golem",
         "candy-cost": "100"
@@ -7430,7 +7430,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "stone edge",
         "type": "rock",
@@ -7533,7 +7533,7 @@ export default {
         "move-duration-seg": "1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "flame charge",
         "type": "fire",
@@ -7567,7 +7567,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "ponyta candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "078",
         "name": "rapidash",
         "candy-cost": "50"
@@ -7638,7 +7638,7 @@ export default {
         "move-duration-seg": "1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "fire blast",
         "type": "fire",
@@ -7732,7 +7732,7 @@ export default {
         "move-duration-seg": "1.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "water pulse",
         "type": "water",
@@ -7759,7 +7759,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "slowpoke candy",
-      "next-evolution": [
+      "nextevolution": [
         {
           "num": "080",
           "name": "slowbro",
@@ -7837,7 +7837,7 @@ export default {
         "move-duration-seg": "1.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "water pulse",
         "type": "water",
@@ -7928,7 +7928,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "discharge",
         "type": "electric",
@@ -7955,7 +7955,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "magnemite candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "082",
         "name": "magneton",
         "candy-cost": "50"
@@ -8026,7 +8026,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "magnet bomb",
         "type": "steel",
@@ -8131,7 +8131,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "aerial ace",
         "type": "flying",
@@ -8216,7 +8216,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "drill peck",
         "type": "flying",
@@ -8250,7 +8250,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "doduo candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "085",
         "name": "dodrio",
         "candy-cost": "50"
@@ -8313,7 +8313,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "drill peck",
         "type": "flying",
@@ -8416,7 +8416,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "icy wind",
         "type": "ice",
@@ -8450,7 +8450,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "seel candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "087",
         "name": "dewgong",
         "candy-cost": "50"
@@ -8520,7 +8520,7 @@ export default {
         "move-duration-seg": "1.2"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "icy wind",
         "type": "ice",
@@ -8631,7 +8631,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "sludge",
         "type": "poison",
@@ -8658,7 +8658,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "grimer candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "089",
         "name": "muk",
         "candy-cost": "50"
@@ -8735,7 +8735,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "dark pulse",
         "type": "dark",
@@ -8824,7 +8824,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "bubble beam",
         "type": "water",
@@ -8851,7 +8851,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "shellder candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "091",
         "name": "cloyster",
         "candy-cost": "50"
@@ -8914,7 +8914,7 @@ export default {
         "move-duration-seg": "1.2"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "hydro pump",
         "type": "water",
@@ -9028,7 +9028,7 @@ export default {
         "move-duration-seg": "0.7"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "dark pulse",
         "type": "dark",
@@ -9062,11 +9062,11 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "gastly candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "093",
         "name": "haunter",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "094",
           "name": "gengar",
           "candy-cost": "100"
@@ -9140,7 +9140,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "dark pulse",
         "type": "dark",
@@ -9174,7 +9174,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "gastly candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "094",
         "name": "gengar",
         "candy-cost": "100"
@@ -9252,7 +9252,7 @@ export default {
         "move-duration-seg": "0.7"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "shadow ball",
         "type": "ghost",
@@ -9366,7 +9366,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "stone edge",
         "type": "rock",
@@ -9407,7 +9407,7 @@ export default {
     "buddy-distance-km": "5",
     "evolution": {
       "candy": "onix candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "208",
         "name": "steelix",
         "candy-cost": "50",
@@ -9472,7 +9472,7 @@ export default {
         "move-duration-seg": "1.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "psybeam",
         "type": "psychic",
@@ -9499,7 +9499,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "drowzee candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "097",
         "name": "hypno",
         "candy-cost": "50"
@@ -9560,7 +9560,7 @@ export default {
         "move-duration-seg": "1.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "psychic",
         "type": "psychic",
@@ -9663,7 +9663,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "vice grip",
         "type": "normal",
@@ -9690,7 +9690,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "krabby candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "099",
         "name": "kingler",
         "candy-cost": "50"
@@ -9759,7 +9759,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "vice grip",
         "type": "normal",
@@ -9846,7 +9846,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "discharge",
         "type": "electric",
@@ -9880,7 +9880,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "voltorb candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "101",
         "name": "electrode",
         "candy-cost": "50"
@@ -9947,7 +9947,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "discharge",
         "type": "electric",
@@ -10043,7 +10043,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "seed bomb",
         "type": "grass",
@@ -10070,7 +10070,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "exeggcute candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "103",
         "name": "exeggutor",
         "candy-cost": "50"
@@ -10153,7 +10153,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "seed bomb",
         "type": "grass",
@@ -10242,7 +10242,7 @@ export default {
         "move-duration-seg": "1.3"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "bone club",
         "type": "ground",
@@ -10269,7 +10269,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "cubone candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "105",
         "name": "marowak",
         "candy-cost": "50"
@@ -10331,7 +10331,7 @@ export default {
         "move-duration-seg": "1.3"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "bone club",
         "type": "ground",
@@ -10420,7 +10420,7 @@ export default {
         "move-duration-seg": "1.3"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "low sweep",
         "type": "fight",
@@ -10530,7 +10530,7 @@ export default {
         "move-duration-seg": "1.3"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "fire punch",
         "type": "fire",
@@ -10629,7 +10629,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "hyper beam",
         "type": "normal",
@@ -10721,7 +10721,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "sludge",
         "type": "poison",
@@ -10748,7 +10748,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "koffing candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "110",
         "name": "weezing",
         "candy-cost": "50"
@@ -10818,7 +10818,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "sludge bomb",
         "type": "poison",
@@ -10913,7 +10913,7 @@ export default {
         "move-duration-seg": "1.3"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "bulldoze",
         "type": "ground",
@@ -10940,11 +10940,11 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "rhyhorn candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "112",
         "name": "rhydon",
         "candy-cost": "50",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "464",
           "name": "rhyperior",
           "candy-cost": "100",
@@ -11017,7 +11017,7 @@ export default {
         "move-duration-seg": "1.3"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "megahorn",
         "type": "bug",
@@ -11044,7 +11044,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "rhyhorn candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "464",
         "name": "rhyperior",
         "candy-cost": "100",
@@ -11111,7 +11111,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "psychic",
         "type": "psychic",
@@ -11145,7 +11145,7 @@ export default {
     "buddy-distance-km": "5",
     "evolution": {
       "candy": "chansey candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "242",
         "name": "blissey"
       }],
@@ -11214,7 +11214,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "sludge bomb",
         "type": "poison",
@@ -11302,7 +11302,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "earthquake",
         "type": "ground",
@@ -11400,7 +11400,7 @@ export default {
         "move-duration-seg": "1.2"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "bubble beam",
         "type": "water",
@@ -11427,11 +11427,11 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "horsea candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "117",
         "name": "seadra",
         "candy-cost": "50",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "230",
           "name": "kingdra",
           "candy-cost": "100",
@@ -11498,7 +11498,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "dragon pulse",
         "type": "dragon",
@@ -11532,7 +11532,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "horsea candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "230",
         "name": "kingdra",
         "candy-cost": "100",
@@ -11603,7 +11603,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "water pulse",
         "type": "water",
@@ -11630,7 +11630,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "goldeen candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "119",
         "name": "seaking",
         "candy-cost": "50"
@@ -11692,7 +11692,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "megahorn",
         "type": "bug",
@@ -11802,7 +11802,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "swift",
         "type": "normal",
@@ -11829,7 +11829,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "staryu candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "121",
         "name": "starmie",
         "candy-cost": "50"
@@ -11910,7 +11910,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "hydro pump",
         "type": "water",
@@ -12007,7 +12007,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "psybeam",
         "type": "psychic",
@@ -12107,7 +12107,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "night slash",
         "type": "dark",
@@ -12141,7 +12141,7 @@ export default {
     "buddy-distance-km": "5",
     "evolution": {
       "candy": "scyther candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "212",
         "name": "scizor",
         "candy-cost": "50",
@@ -12217,7 +12217,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "draining kiss",
         "type": "fairy",
@@ -12311,7 +12311,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "thunder punch",
         "type": "electric",
@@ -12338,7 +12338,7 @@ export default {
     "buddy-distance-km": "5",
     "evolution": {
       "candy": "electabuzz candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "466",
         "name": "electivire",
         "candy-cost": "100",
@@ -12411,7 +12411,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "fire blast",
         "type": "fire",
@@ -12438,7 +12438,7 @@ export default {
     "buddy-distance-km": "5",
     "evolution": {
       "candy": "magmar candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "467",
         "name": "magmortar",
         "candy-cost": "100",
@@ -12516,7 +12516,7 @@ export default {
         "move-duration-seg": "0.4"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "vice grip",
         "type": "normal",
@@ -12604,7 +12604,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "horn attack",
         "type": "normal",
@@ -12680,7 +12680,7 @@ export default {
       "energy": "0",
       "move-duration-seg": "1.73"
     }],
-    "special-attack": [
+    "specialattack": [
       {
       "name": "struggle",
       "type": "normal",
@@ -12692,7 +12692,7 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "magikarp candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "130",
         "name": "gyarados",
         "candy-cost": "400"
@@ -12763,7 +12763,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "hydro pump",
         "type": "water",
@@ -12874,7 +12874,7 @@ export default {
         "move-duration-seg": "1.2"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "ice beam",
         "type": "ice",
@@ -12953,7 +12953,7 @@ export default {
       "energy": "6",
       "move-duration-seg": "0.6"
     }],
-    "special-attack": [
+    "specialattack": [
       {
       "name": "struggle",
       "type": "normal",
@@ -13018,7 +13018,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "dig",
         "type": "ground",
@@ -13045,7 +13045,7 @@ export default {
     "buddy-distance-km": "5",
     "evolution": {
       "candy": "eevee candy",
-      "next-evolution": [
+      "nextevolution": [
         {
           "num": "134",
           "name": "vaporeon",
@@ -13131,7 +13131,7 @@ export default {
       "energy": "5",
       "move-duration-seg": "0.5"
     }],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "water pulse",
         "type": "water",
@@ -13218,7 +13218,7 @@ export default {
         "move-duration-seg": "2.3"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "discharge",
         "type": "electric",
@@ -13309,7 +13309,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "fire blast",
         "type": "fire",
@@ -13422,7 +13422,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "solar beam",
         "type": "grass",
@@ -13470,7 +13470,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "porygon candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "233",
         "name": "porygon2",
         "candy-cost": "25",
@@ -13478,7 +13478,7 @@ export default {
           "name": "up grade",
           "img": "https://pokemon.gameinfo.io/images/item/thumbs/200/up-grade.png"
         },
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "474",
           "name": "porygon-z",
           "candy-cost": "100",
@@ -13549,7 +13549,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "ancient power",
         "type": "rock",
@@ -13590,7 +13590,7 @@ export default {
     "buddy-distance-km": "5",
     "evolution": {
       "candy": "omanyte candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "139",
         "name": "omastar",
         "candy-cost": "50"
@@ -13663,7 +13663,7 @@ export default {
         "move-duration-seg": "0.9"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "ancient power",
         "type": "rock",
@@ -13763,7 +13763,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "ancient power",
         "type": "rock",
@@ -13790,7 +13790,7 @@ export default {
     "buddy-distance-km": "5",
     "evolution": {
       "candy": "kabuto candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "141",
         "name": "kabutops",
         "candy-cost": "50"
@@ -13863,7 +13863,7 @@ export default {
         "move-duration-seg": "0.4"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "ancient power",
         "type": "rock",
@@ -13957,7 +13957,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "ancient power",
         "type": "rock",
@@ -14037,7 +14037,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "hyper beam",
         "type": "normal",
@@ -14127,7 +14127,7 @@ export default {
       "energy": "8",
       "move-duration-seg": "0.9"
     }],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "ice beam",
         "type": "ice",
@@ -14213,7 +14213,7 @@ export default {
         "move-duration-seg": "2.3"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "zap cannon",
         "type": "electric",
@@ -14292,7 +14292,7 @@ export default {
       "energy": "10",
       "move-duration-seg": "1.1"
     }],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "fire blast",
         "type": "fire",
@@ -14377,7 +14377,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "wrap",
         "type": "normal",
@@ -14404,11 +14404,11 @@ export default {
     "buddy-distance-km": "5",
     "evolution": {
       "candy": "dratini candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "148",
         "name": "dragonair",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "149",
           "name": "dragonite",
           "candy-cost": "100"
@@ -14472,7 +14472,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "wrap",
         "type": "normal",
@@ -14499,7 +14499,7 @@ export default {
     "buddy-distance-km": "5",
     "evolution": {
       "candy": "dratini candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "149",
         "name": "dragonite",
         "candy-cost": "100"
@@ -14577,7 +14577,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "hyper beam",
         "type": "normal",
@@ -14684,7 +14684,7 @@ export default {
         "move-duration-seg": "1.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "psychic",
         "type": "psychic",
@@ -14766,7 +14766,7 @@ export default {
       "energy": "6",
       "move-duration-seg": "0.6"
     }],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "blizzard",
         "type": "ice",
@@ -14887,7 +14887,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "energy ball",
         "type": "grass",
@@ -14914,11 +14914,11 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "chikorita candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "153",
         "name": "bayleef",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "154",
           "name": "meganium",
           "candy-cost": "100"
@@ -14983,7 +14983,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "energy ball",
         "type": "grass",
@@ -15010,7 +15010,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "chikorita candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "154",
         "name": "meganium",
         "candy-cost": "100"
@@ -15079,7 +15079,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "petal blizzard",
         "type": "grass",
@@ -15175,7 +15175,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "flame charge",
         "type": "fire",
@@ -15202,11 +15202,11 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "cyndaquil candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "156",
         "name": "quilava",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "157",
           "name": "typhlosion",
           "candy-cost": "100"
@@ -15271,7 +15271,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "flame charge",
         "type": "fire",
@@ -15298,7 +15298,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "cyndaquil candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "157",
         "name": "typhlosion",
         "candy-cost": "100"
@@ -15367,7 +15367,7 @@ export default {
         "move-duration-seg": "0.7"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "fire blast",
         "type": "fire",
@@ -15461,7 +15461,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "crunch",
         "type": "dark",
@@ -15488,11 +15488,11 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "totodile candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "159",
         "name": "croconaw",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "160",
           "name": "feraligatr",
           "candy-cost": "100"
@@ -15555,7 +15555,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "crunch",
         "type": "dark",
@@ -15582,7 +15582,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "totodile candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "160",
         "name": "feraligatr",
         "candy-cost": "100"
@@ -15649,7 +15649,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "crunch",
         "type": "dark",
@@ -15739,7 +15739,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "dig",
         "type": "ground",
@@ -15766,7 +15766,7 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "sentret candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "162",
         "name": "furret",
         "candy-cost": "25"
@@ -15824,7 +15824,7 @@ export default {
         "move-duration-seg": "0.7"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "dig",
         "type": "ground",
@@ -15915,7 +15915,7 @@ export default {
         "move-duration-seg": "1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
       "name": "blizzard",
       "type": "ice",
@@ -15927,7 +15927,7 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "hoothoot candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "164",
         "name": "noctowl",
         "candy-cost": "50"
@@ -15991,7 +15991,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "psychic",
         "type": "psychic",
@@ -16083,7 +16083,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "silver wind",
         "type": "bug",
@@ -16110,7 +16110,7 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "ledyba candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "166",
         "name": "ledian",
         "candy-cost": "25"
@@ -16175,7 +16175,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "bug buzz",
         "type": "bug",
@@ -16268,7 +16268,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "night slash",
         "type": "dark",
@@ -16295,7 +16295,7 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "spinarak candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "168",
         "name": "ariados",
         "candy-cost": "50"
@@ -16361,7 +16361,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "shadow sneak",
         "type": "ghost",
@@ -16454,7 +16454,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "shadow ball",
         "type": "ghost",
@@ -16550,7 +16550,7 @@ export default {
         "move-duration-seg": "0.7"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "water pulse",
         "type": "water",
@@ -16577,7 +16577,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "chinchou candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "171",
         "name": "lanturn",
         "candy-cost": "50"
@@ -16641,7 +16641,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "hydro pump",
         "type": "water",
@@ -16728,7 +16728,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "thunderbolt",
         "type": "electric",
@@ -16755,11 +16755,11 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "pikachu candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "025",
         "name": "pikachu",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "026",
           "name": "raichu",
           "candy-cost": "50"
@@ -16822,7 +16822,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "grass knot",
         "type": "grass",
@@ -16863,11 +16863,11 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "clefairy candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "035",
         "name": "clefairy",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "036",
           "name": "clefable",
           "candy-cost": "50"
@@ -16931,7 +16931,7 @@ export default {
         "move-duration-seg": "0.9"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "wild charge",
         "type": "electric",
@@ -16965,11 +16965,11 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "jigglypuff candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "039",
         "name": "jigglypuff",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "040",
           "name": "wigglytuff",
           "candy-cost": "50"
@@ -17039,7 +17039,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "ancient power",
         "type": "rock",
@@ -17066,11 +17066,11 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "togepi candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "176",
         "name": "togetic",
         "candy-cost": "50",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "468",
           "name": "togekiss",
           "candy-cost": "100",
@@ -17141,7 +17141,7 @@ export default {
         "move-duration-seg": "1.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "ancient power",
         "type": "rock",
@@ -17168,7 +17168,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "togepi candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "468",
         "name": "togekiss",
         "candy-cost": "100",
@@ -17242,7 +17242,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "night shade",
         "type": "ghost",
@@ -17269,7 +17269,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "natu candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "178",
         "name": "xatu",
         "candy-cost": "50"
@@ -17334,7 +17334,7 @@ export default {
         "move-duration-seg": "0.9"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "ominous wind",
         "type": "ghost",
@@ -17421,7 +17421,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "body slam",
         "type": "normal",
@@ -17448,11 +17448,11 @@ export default {
     "buddy-distance-km": "5",
     "evolution": {
       "candy": "mareep candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "180",
         "name": "flaaffy",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "181",
           "name": "ampharos",
           "candy-cost": "100"
@@ -17513,7 +17513,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "power gem",
         "type": "rock",
@@ -17540,7 +17540,7 @@ export default {
     "buddy-distance-km": "5",
     "evolution": {
       "candy": "mareep candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "181",
         "name": "ampharos",
         "candy-cost": "100"
@@ -17605,7 +17605,7 @@ export default {
         "move-duration-seg": "2.3"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "zap cannon",
         "type": "electric",
@@ -17701,7 +17701,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "leaf blade",
         "type": "grass",
@@ -17802,7 +17802,7 @@ export default {
         "move-duration-seg": "1.2"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "bubble beam",
         "type": "water",
@@ -17829,7 +17829,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "marill candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "184",
         "name": "azumarill",
         "candy-cost": "25"
@@ -17899,7 +17899,7 @@ export default {
         "move-duration-seg": "1.2"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "play rough",
         "type": "fairy",
@@ -17995,7 +17995,7 @@ export default {
         "move-duration-seg": "0.9"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "stone edge",
         "type": "rock",
@@ -18084,7 +18084,7 @@ export default {
         "move-duration-seg": "1.2"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "hydro pump",
         "type": "water",
@@ -18185,7 +18185,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "grass knot",
         "type": "grass",
@@ -18212,11 +18212,11 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "hoppip candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "188",
         "name": "skiploom",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "189",
           "name": "jumpluff",
           "candy-cost": "100"
@@ -18282,7 +18282,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "grass knot",
         "type": "grass",
@@ -18309,7 +18309,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "hoppip candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "189",
         "name": "jumpluff",
         "candy-cost": "100"
@@ -18379,7 +18379,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "energy ball",
         "type": "grass",
@@ -18469,7 +18469,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "low sweep",
         "type": "fight",
@@ -18555,7 +18555,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "energy ball",
         "type": "grass",
@@ -18582,7 +18582,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "sunkern candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "192",
         "name": "sunflora",
         "candy-cost": "50",
@@ -18650,7 +18650,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "solar beam",
         "type": "grass",
@@ -18746,7 +18746,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "ancient power",
         "type": "rock",
@@ -18830,7 +18830,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "mud bomb",
         "type": "ground",
@@ -18857,7 +18857,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "wooper candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "195",
         "name": "quagsire",
         "candy-cost": "50"
@@ -18919,7 +18919,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "sludge bomb",
         "type": "poison",
@@ -19007,7 +19007,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "psybeam",
         "type": "psychic",
@@ -19096,7 +19096,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "dark pulse",
         "type": "dark",
@@ -19182,7 +19182,7 @@ export default {
         "move-duration-seg": "0.9"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "drill peck",
         "type": "flying",
@@ -19209,7 +19209,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "murkrow candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "430",
         "name": "honchkrow",
         "candy-cost": "100",
@@ -19279,7 +19279,7 @@ export default {
         "move-duration-seg": "1.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "blizzard",
         "type": "ice",
@@ -19372,7 +19372,7 @@ export default {
         "move-duration-seg": "1.2"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "shadow sneak",
         "type": "ghost",
@@ -19399,7 +19399,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "misdreavus candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "429",
         "name": "mismagius",
         "candy-cost": "100",
@@ -19456,7 +19456,7 @@ export default {
       "energy": "15",
       "move-duration-seg": "1.5"
     }],
-    "special-attack": [
+    "specialattack": [
       {
       "name": "struggle",
       "type": "normal",
@@ -19524,7 +19524,7 @@ export default {
         "move-duration-seg": "1.73"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
       "name": "mirror coat",
       "type": "psychic",
@@ -19596,7 +19596,7 @@ export default {
         "move-duration-seg": "1.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "psychic",
         "type": "psychic",
@@ -19680,7 +19680,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "gyro ball",
         "type": "steel",
@@ -19707,7 +19707,7 @@ export default {
     "buddy-distance-km": "5",
     "evolution": {
       "candy": "pineco candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "205",
         "name": "forretress",
         "candy-cost": "50"
@@ -19770,7 +19770,7 @@ export default {
         "move-duration-seg": "1.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "heavy slam",
         "type": "steel",
@@ -19855,7 +19855,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "dig",
         "type": "ground",
@@ -19940,7 +19940,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "dig",
         "type": "ground",
@@ -19967,7 +19967,7 @@ export default {
     "buddy-distance-km": "5",
     "evolution": {
       "candy": "gligar candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "472",
         "name": "gliscor",
         "candy-cost": "100",
@@ -20037,7 +20037,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "earthquake",
         "type": "ground",
@@ -20130,7 +20130,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "crunch",
         "type": "dark",
@@ -20157,7 +20157,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "snubbull candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "210",
         "name": "granbull",
         "candy-cost": "50"
@@ -20219,7 +20219,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "crunch",
         "type": "dark",
@@ -20311,7 +20311,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "aqua tail",
         "type": "water",
@@ -20396,7 +20396,7 @@ export default {
         "move-duration-seg": "0.4"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "x scissor",
         "type": "water",
@@ -20489,7 +20489,7 @@ export default {
         "move-duration-seg": "0.9"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "rock blast",
         "type": "rock",
@@ -20577,7 +20577,7 @@ export default {
         "move-duration-seg": "1.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "megahorn",
         "type": "bug",
@@ -20664,7 +20664,7 @@ export default {
         "move-duration-seg": "0.9"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "avalanche",
         "type": "ice",
@@ -20691,7 +20691,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "sneasel candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "461",
         "name": "weavile",
         "candy-cost": "100",
@@ -20753,7 +20753,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "cross chop",
         "type": "fight",
@@ -20780,7 +20780,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "teddiursa candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "217",
         "name": "ursaring",
         "candy-cost": "50"
@@ -20838,7 +20838,7 @@ export default {
         "move-duration-seg": "0.9"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "close combat",
         "type": "fight",
@@ -20929,7 +20929,7 @@ export default {
         "move-duration-seg": "0.9"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "flame burst",
         "type": "fire",
@@ -20956,7 +20956,7 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "slugma candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "219",
         "name": "magcargo",
         "candy-cost": "50"
@@ -21022,7 +21022,7 @@ export default {
         "move-duration-seg": "0.9"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "heat wave",
         "type": "fire",
@@ -21112,7 +21112,7 @@ export default {
         "move-duration-seg": "1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "icy wind",
         "type": "ice",
@@ -21139,7 +21139,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "swinub candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "221",
         "name": "piloswine",
         "candy-cost": "50"
@@ -21202,7 +21202,7 @@ export default {
         "move-duration-seg": "1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "avalanche",
         "type": "ice",
@@ -21295,7 +21295,7 @@ export default {
         "move-duration-seg": "1.2"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "rock blast",
         "type": "rock",
@@ -21379,7 +21379,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "aurora beam",
         "type": "ice",
@@ -21406,7 +21406,7 @@ export default {
     "buddy-distance-km": "1",
     "evolution": {
       "candy": "remoraid candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "224",
         "name": "octillery",
         "candy-cost": "50"
@@ -21468,7 +21468,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "gunk shot",
         "type": "poison",
@@ -21559,7 +21559,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "ice punch",
         "type": "ice",
@@ -21645,7 +21645,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "water pulse",
         "type": "water",
@@ -21736,7 +21736,7 @@ export default {
         "move-duration-seg": "1.2"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "brave bird",
         "type": "flying",
@@ -21824,7 +21824,7 @@ export default {
         "move-duration-seg": "1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "crunch",
         "type": "dark",
@@ -21851,7 +21851,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "houndour candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "229",
         "name": "houndoom",
         "candy-cost": "50"
@@ -21917,7 +21917,7 @@ export default {
         "move-duration-seg": "0.9"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "crunch",
         "type": "dark",
@@ -22006,7 +22006,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "hydro pump",
         "type": "water",
@@ -22104,7 +22104,7 @@ export default {
         "move-duration-seg": "1.3"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "bulldoze",
         "type": "ground",
@@ -22131,7 +22131,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "phanpy candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "232",
         "name": "donphan",
         "candy-cost": "50"
@@ -22193,7 +22193,7 @@ export default {
         "move-duration-seg": "0.9"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "earthquake",
         "type": "ground",
@@ -22278,7 +22278,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "solar beam",
         "type": "grass",
@@ -22305,7 +22305,7 @@ export default {
     "buddy-distance-km": "3",
     "evolution": {
       "candy": "porygon candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "474",
         "name": "porygon-z",
         "candy-cost": "100",
@@ -22376,7 +22376,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "stomp",
         "type": "normal",
@@ -22448,7 +22448,7 @@ export default {
       "energy": "5",
       "move-duration-seg": "0.5"
     }],
-    "special-attack": [
+    "specialattack": [
       {
       "name": "struggle",
       "type": "normal",
@@ -22517,7 +22517,7 @@ export default {
         "move-duration-seg": "0.5"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "brick break",
         "type": "fight",
@@ -22544,7 +22544,7 @@ export default {
     "buddy-distance-km": "5",
     "evolution": {
       "candy": "tyrogue candy",
-      "next-evolution": [
+      "nextevolution": [
         {
           "num": "106",
           "name": "hitmonlee",
@@ -22618,7 +22618,7 @@ export default {
         "move-duration-seg": "0.9"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "close combat",
         "type": "fight",
@@ -22715,7 +22715,7 @@ export default {
         "move-duration-seg": "0.9"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "ice beam",
         "type": "ice",
@@ -22742,7 +22742,7 @@ export default {
     "buddy-distance-km": "5",
     "evolution": {
       "candy": "jynx candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "124",
         "name": "jynx",
         "candy-cost": "25"
@@ -22802,7 +22802,7 @@ export default {
         "move-duration-seg": "0.6"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "thunder punch",
         "type": "electric",
@@ -22836,11 +22836,11 @@ export default {
     "buddy-distance-km": "5",
     "evolution": {
       "candy": "electabuzz candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "125",
         "name": "electabuzz",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "466",
           "name": "electivire",
           "candy-cost": "100",
@@ -22909,7 +22909,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "brick break",
         "type": "fight",
@@ -22943,11 +22943,11 @@ export default {
     "buddy-distance-km": "5",
     "evolution": {
       "candy": "magmar candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "126",
         "name": "magmar",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "467",
           "name": "magmortar",
           "candy-cost": "100",
@@ -23010,7 +23010,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "stomp",
         "type": "normal",
@@ -23090,7 +23090,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "psychic",
         "type": "psychic",
@@ -23182,7 +23182,7 @@ export default {
         "move-duration-seg": "2.3"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "thunder",
         "type": "electric",
@@ -23268,7 +23268,7 @@ export default {
         "move-duration-seg": "0.9"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "flamethrower",
         "type": "fire",
@@ -23352,7 +23352,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "hydro pump",
         "type": "water",
@@ -23443,7 +23443,7 @@ export default {
         "move-duration-seg": "1.3"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "stomp",
         "type": "normal",
@@ -23470,11 +23470,11 @@ export default {
     "buddy-distance-km": "5",
     "evolution": {
       "candy": "larvitar candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "247",
         "name": "pupitar",
         "candy-cost": "25",
-        "next-evolution": [{
+        "nextevolution": [{
           "num": "248",
           "name": "tyranitar",
           "candy-cost": "100"
@@ -23544,7 +23544,7 @@ export default {
         "move-duration-seg": "1.3"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "dig",
         "type": "ground",
@@ -23571,7 +23571,7 @@ export default {
     "buddy-distance-km": "5",
     "evolution": {
       "candy": "larvitar candy",
-      "next-evolution": [{
+      "nextevolution": [{
         "num": "248",
         "name": "tyranitar",
         "candy-cost": "100"
@@ -23647,7 +23647,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "fire blast",
         "type": "fire",
@@ -23744,7 +23744,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "sky attack",
         "type": "flying",
@@ -23833,7 +23833,7 @@ export default {
         "move-duration-seg": "0.8"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "brave bird",
         "type": "flying",
@@ -23921,7 +23921,7 @@ export default {
         "move-duration-seg": "1.1"
       }
     ],
-    "special-attack": [
+    "specialattack": [
       {
         "name": "hyper beam",
         "type": "normal",

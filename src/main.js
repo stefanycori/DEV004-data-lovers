@@ -5,10 +5,11 @@ import data from './data/pokemon/pokemon.js';
 
 import arrayPokemon from './data.js';
 import { templateCard, searchPokemon } from './data.js';
-import {  sortReverse,sortPokemon,typePokemon} from './data.js';
+import {  sortReverse,sortPokemon,typePokemon,compareCard,specification} from './data.js';
 
 let button = document.getElementById('btn-validar')
-let input = document.getElementById("caja-texto")
+let input = document.getElementById("caja-texto");
+let id="";
 
 window.addEventListener('load', showCard); //evento de carga
 function showCard() {                //funcion para el evento de carga
@@ -94,19 +95,59 @@ sortList.addEventListener("change", (e) => {
 
      const btnAbrirModal=
      document.querySelector("#btn-abrir-modal");
-     const btnCerrarModal=
-     document.querySelector("#btn-cerrar-modal");
-     const modal=
-     document.querySelector("#modal");
+     const btnCerrarModal=document.querySelector("#btn-cerrar-modal");
+     const modal=document.querySelector("#modal");
      
-     btnAbrirModal.addEventListener("click",()=>{
+     /*btnAbrirModal.addEventListener("click",()=>{
         modal.showModal();
-     })
+     })*/
 
      btnCerrarModal.addEventListener("click",()=>{
         modal.close();
      })
 
+
+    const btnAbrirCuadroModal=
+    document.querySelector("#btn-abrir-cuadro-modal");
+    let btnCerrarCuadroModal=document.querySelector("#btn-cerrar-cuadro-modal");
+    const modalCuadro=document.querySelector("#modal-cuadro");
+
+    btnAbrirCuadroModal.addEventListener("click",()=>{
+       
+        compareCard(arrayPokemon);
+       
+        modalCuadro.showModal();
+
+       
+        
+    })
+
+    btnCerrarCuadroModal.addEventListener("click",()=>{
+        modalCuadro.close();
+    })
+
+
+function showDetail(id)
+{
+    console.log(id);
+
+    const pokeSpecification = arrayPokemon.filter(p =>p.num==id)[0]
+    specification(pokeSpecification)
+    modal.showModal();
+    btnCerrarCuadroModal=document.querySelector("#btn-cerrar-cuadro-modal");
+    
+
+
+
+
+    //3 buscar el pokemon por el id  usar filter almacendas en una variable el resultado
+    //4 llamar funcion detail
+    // llamar para abrir modal 
+   
+}
+window.showDetail = showDetail;
+
+  
 
  
 

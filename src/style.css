@@ -10,6 +10,7 @@ body {
 
     margin: 0px;
     background-image: url(img/azul.jpeg);
+    background-size: contain;
 }
 
 .contenedor {
@@ -88,6 +89,7 @@ h3 {
     box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
     cursor: default;
     transition: all 400ms ease;
+    
 }
 
 .card:hover {
@@ -160,28 +162,29 @@ h3 {
 
 #selectSort {
     border-radius: 5px;
-    background-color: rgb(252, 248, 248);
+    background-color:rgb(248, 237, 83);
     font-family: 'Oswald', sans-serif;
-    color: rgb(248, 179, 123);
+    color: rgb(245, 61, 6);
     width: 130px;
     height: 30px;
     font-size: 15px;
     margin: 30px;
     font-weight: bold;
+    
+    
 
 }
 
 #filter {
     border-radius: 5px;
-    background-color: rgb(252, 248, 248);
+    background-color:rgb(248, 237, 83);
     font-family: 'Oswald', sans-serif;
-    color: rgb(248, 179, 123);
+    color: rgb(245, 61, 6);
     width: 130px;
     height: 30px;
     font-size: 15px;
     margin: 30px;
     font-weight: bold;
-
 }
 
 #modal::backdrop {
@@ -202,6 +205,7 @@ h3 {
 
 #btn-abrir-modal {
     border-radius: 10px;
+    
 }
 
 #caracteristicas {
@@ -255,30 +259,33 @@ h3 {
     background-color: rgb(223, 244, 157);
     color: rgb(7, 7, 104);
     border-radius: 5px;
-    height: 22px;
+    height: 35px;
     text-align: center;
     font-family: 'Noto sans Syloti Natri', sans-serif;
     font-weight: bold;
+   
 }
 
 .azul {
     background-color: rgb(193, 255, 255);
     color: rgb(7, 7, 104);
     border-radius: 5px;
-    height: 22px;
+    height: 35px;
     text-align: center;
     font-family: 'Noto sans Syloti Natri', sans-serif;
     font-weight: bold;
+    
 }
 
 .naranja {
     background-color: rgb(255, 197, 168);
     color: rgb(7, 7, 104);
     border-radius: 5px;
-    height: 22px;
+    height: 35px;
     text-align: center;
     font-family: 'Noto sans Syloti Natri', sans-serif;
     font-weight: bold;
+    
 
 }
 
@@ -302,4 +309,77 @@ h3 {
     width: 200px;
     height: 38px;
     font-size: 20px;
+}
+
+table , th ,td{
+    border:2px solid rgba(235, 227, 227, 0.692);
+    width: 100px;
+}
+
+th{
+    background-color: hsla(0, 2%, 18%, 0.937);
+    color: rgb(239, 242, 245);
+}
+th , td{
+    padding:10px;
+    font-family: 'Noto sans Syloti Natri', sans-serif;
+}
+th{
+    text-align: center;
+}
+
+#modal-cuadro{
+    width: 72%;
+    height: 90%;
+    background-image: url(img/cuadro2.jpg);
+    background-size: cover;
+}
+ 
+  
+
+#btn-cerrar-cuadro-modal{
+    border-color: rgba(253, 7, 7, 0.774);
+    background-color: rgba(253, 7, 7, 0.774);
+    color: aliceblue;
+    font-family: 'Oswald', sans-serif;
+    border-radius: 10px;
+    width: 200px;
+    height: 38px;
+    font-size: 20px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+   
+}
+.botonFlotante{
+    position: fixed;
+    top: 5%;
+    right: 350px;
+   
+}
+
+
+#modal-cuadro::backdrop {
+    background-color: rgba(0, 0, 0, .70);
+}
+
+#btn-abrir-cuadro-modal{
+    border-radius: 5px;
+    background-color:rgb(248, 237, 83);
+    border-color: rgb(248, 237, 83);
+    font-family: 'Oswald', sans-serif;
+    color: rgb(245, 61, 6);
+    width: 250px;
+    height: 30px;
+    font-size: 15px;
+    margin: 30px;
+    font-weight: bold;
+    
+}
+
+#boton{
+    width: 100%;
+    text-align: center;
 }
