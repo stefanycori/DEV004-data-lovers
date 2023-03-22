@@ -7,14 +7,14 @@ export const example = () => {
 export const anotherExample = () => {
   return 'OMG';
 };
-import pokemon, { default as dataPokemon } from "./data/pokemon/pokemon.js";
+import { default as dataPokemon } from "./data/pokemon/pokemon.js";
 
 const arrayPokemon = dataPokemon.pokemon.slice(0, 100);
 export default arrayPokemon;
 
 
 
-let contenedor = document.getElementById('container');
+const contenedor = document.getElementById('container');
 //recibe como parametro arreglo de pokemones
 export const templateCard = (data) => { //exporta la funcion en una constante
 
@@ -44,9 +44,9 @@ export const templateCard = (data) => { //exporta la funcion en una constante
 
 
 export const searchPokemon = (data) => {
-  let input = document.getElementById('caja-texto');
-  let htmlCode = '';
-  let newdata = [];   //areglo vacio
+  const input = document.getElementById('caja-texto');
+  //const htmlCode = '';
+  const newdata = [];   //areglo vacio
   data.forEach(poke => {
     if (poke.name.includes(input.value)) {
       newdata.push(poke)
@@ -92,13 +92,13 @@ export const typePokemon = (data, type) => {
 }
 
 
-export const compare = (data) => {
+//export const compare = (data) => {
 
-}
+//}
 
 
 
-let comparador = document.getElementById('comparacion');
+const comparador = document.getElementById('comparacion');
 
 export const compareCard = (data) => {
 
@@ -133,14 +133,14 @@ export const compareCard = (data) => {
 
 }
 
-let characteristic = document.getElementById('detail');
+const characteristic = document.getElementById('detail');
 export const specification = (data) => {
-  console.log(data)
+  
   let htmlCode = '';
-  let evolution= ' -';
+  let evolution = ' -';
 
-  if(data.evolution.nextevolution!=undefined)
-     evolution = data.evolution.nextevolution[0].name;
+  if (data.evolution.nextevolution !== undefined)
+    evolution = data.evolution.nextevolution[0].name;
 
   htmlCode = `
             <div class="box-info">
@@ -199,11 +199,6 @@ export const specification = (data) => {
 }
 
 
-
-
-
- // 1 crear funcion que exporte html parametros poke detail(poke)
-  // 2 obtener el div principal e insertar codigo html
 
 
 
