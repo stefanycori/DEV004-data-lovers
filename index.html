@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Data Lovers</title>
+  <link rel="stylesheet" href="style.css" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital@1&display=swap" rel="stylesheet">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Syloti+Nagri&family=Noto+Serif+Ahom&display=swap"
+    rel="stylesheet">
+
+</head>
+
+<body>
+
+  <div class="photo">
+    <img id="fondo" src="img/picaachu-removebg-preview.png">
+  </div>
+
+
+
+  <div class="contenedor">
+
+    <div>
+      <input id="caja-texto" placeholder="Busca tu pokémon" />
+    </div>
+
+    <div>
+      <button id="btn-validar">Buscar</button>
+    </div>
+
+    <div id="boton">
+
+      <button id="btn-abrir-cuadro-modal">Cuadro comparativo</button>
+
+      <select name="selectSort" id="selectSort">
+        <option value="">Ordenar :</option>
+        <option value="1"> A - Z </option>
+        <option value="2"> Z - A </option>
+      </select>
+
+      <select name="filter" id="filter">
+        <option value="">Por Tipo :</option>
+        <option value="1"> Agua </option>
+        <option value="2"> Aire </option>
+        <option value="3"> Fuego </option>
+        <option value="4"> Electrico </option>
+        <option value="5"> Tierra </option>
+        <option value="6"> Psíquico </option>
+        <option value="7"> Planta </option>
+        <option value="8"> Bicho </option>
+      </select>
+
+    </div>
+
+    <div class="contenedor-central" id="container">
+
+    </div>
+
+    <dialog id="modal">
+      <div id="principal">
+
+        <div id="detail">
+
+        </div>
+        <div class="btn-close">
+          <button id="btn-cerrar-modal">Cerrar</button>
+        </div>
+      </div>
+    </dialog>
+
+  </div>
+
+
+  <dialog id="modal-cuadro">
+
+    <table id="comparacion">
+
+    </table>
+
+    <div class="botonFlotante">
+      <button id="btn-cerrar-cuadro-modal">Cerrar</button>
+    </div>
+
+  </dialog>
+
+
+  <script src="main.js" type="module"></script>
+</body>
+
+</html>
